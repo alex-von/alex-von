@@ -19,4 +19,4 @@ I have experience working with various programming languages, including:
 - SQL
 
 ### 🤝 Let's Connect!
-I'm always excited to collaborate and learn from others. If you have any interesting projects or ideas, feel free to reach out to me. You can find me on [LinkedIn](https://www.linkedin.com/in/alex-vongseng/) and check out my projects on [GitHub](https://github.com/alex-von).
+I'm always excited to collaborate and learn from others. If you have any interesting projects or ideas, feel free to reach out to me. You can find me on [LinkedIn](www.linkedin.com/in/alex-vongseng) and check out my projects on [GitHub](https://github.com/alex-von).
