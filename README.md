@@ -8,18 +8,15 @@ I'm constantly expanding my knowledge and exploring new technologies. Some of th
 - React: Building dynamic and interactive user interfaces.
 - Next.js: Creating fast and optimized web applications.
 - Tailwind CSS: Crafting beautiful and responsive designs.
-- Langchain: Building applications using large language models.
-- Supabase: Leveraging the power of open source databases and serverless infrastructure.
 
 ### 💻 Technical Skills
 I have experience working with various programming languages, including:
 
-- JavaScript
+- JavaScript/Typescript
 - Python
 - Java
 - C
 - SQL
-
 
 ### 🤝 Let's Connect!
 I'm always excited to collaborate and learn from others. If you have any interesting projects or ideas, feel free to reach out to me. You can find me on [LinkedIn](https://www.linkedin.com/in/alex-vongseng/) and check out my projects on [GitHub](https://github.com/alex-von).
