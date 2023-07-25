@@ -1,16 +1,25 @@
-### Hi there 👋
+## Hi there! 👋
 
-<!--
-**alex-von/alex-von** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate and dedicated student at the University of Minnesota, studying Information Technology Infrastructure and Computer Science. I have a strong interest in full stack development and I'm currently honing my skills in using modern tools like React, Next.js, Tailwind CSS, Langchain, and Supabase.
 
-Here are some ideas to get you started:
+### 🌱 Currently Learning
+I'm constantly expanding my knowledge and exploring new technologies. Some of the areas I'm currently focused on include:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React: Building dynamic and interactive user interfaces.
+- Next.js: Creating fast and optimized web applications.
+- Tailwind CSS: Crafting beautiful and responsive designs.
+- Langchain: Building applications using large language models.
+- Supabase: Leveraging the power of open source databases and serverless infrastructure.
+
+### 💻 Technical Skills
+I have experience working with various programming languages, including:
+
+- JavaScript
+- Python
+- Java
+- C
+- SQL
+
+
+### 🤝 Let's Connect!
+I'm always excited to collaborate and learn from others. If you have any interesting projects or ideas, feel free to reach out to me. You can find me on [LinkedIn](https://www.linkedin.com/in/alex-vongseng/) and check out my projects on [GitHub](https://github.com/alex-von).
